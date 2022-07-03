@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class triangleDrawer {
     public static void main(String[] args) {
-        int i,j,k,num;//Değişekenlerimizi tanımladık.
+        int i,j,k,num;
         Scanner scanner = new Scanner(System.in);
         System.out.println("pls enter a number");
         num = scanner.nextInt();
